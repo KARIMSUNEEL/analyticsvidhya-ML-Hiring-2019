@@ -35,6 +35,7 @@ test.zip contains test.csv which has details of all loans for which the particip
 sample_submission.zip
 sample_submission.zip contains the submission format for the predictions against the test set. A single csv needs to be submitted as a solution.
 
-Evaluation Metric
+Evaluation Metric:
+
 Submissions are evaluated on F1-Score between the predicted class and the observed target.
 
