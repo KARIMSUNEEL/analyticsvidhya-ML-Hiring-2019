@@ -39,3 +39,13 @@ Evaluation Metric:
 
 Submissions are evaluated on F1-Score between the predicted class and the observed target.
 
+
+Versions of different Modules
+pd.__version__       = '0.24.2'
+np.__version__       = '1.16.2'
+sklearn.__version__  = '0.21.3'
+imblearn.__version__ = '0.5.0'
+lightgbm.__version__ = '2.2.3'
+
+to execute the program please run the Credit Risk_Basic_3.2 file block by block 
+Note: Please make sure input files are present on the same folder where program you are executing the program.
