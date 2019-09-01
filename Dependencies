@@ -1,0 +1,8 @@
+Pandas: Use Pandas to read the CSV file into a table form 
+Numpy: Use Numpy to do the numerical operations 
+SMOTE: Use the SMOTE module from imblearn to balance the dataset 
+StandardScaler : Preprocessing Module to normalize the data
+F1_score: Module from Sklearn to calculate the F1 Score
+StratifiedKFold: Module from Sklearn to split the unbalanced data into train and test sets; 
+GridSearchCV : Module from Sklearn to do validate the model
+LGBMClassifier : Classifier from LGBM
