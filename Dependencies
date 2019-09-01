@@ -6,3 +6,11 @@ F1_score: Module from Sklearn to calculate the F1 Score
 StratifiedKFold: Module from Sklearn to split the unbalanced data into train and test sets; 
 GridSearchCV : Module from Sklearn to do validate the model
 LGBMClassifier : Classifier from LGBM
+
+Versions of different Modules
+pd.__version__       = '0.24.2'
+np.__version__       = '1.16.2'
+sklearn.__version__  = '0.21.3'
+imblearn.__version__ = '0.5.0'
+lightgbm.__version__ = '2.2.3'
+
